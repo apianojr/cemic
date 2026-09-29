@@ -2,3 +2,4 @@ streamlit
 qrcode
 pillow
 python-barcode
+cv2
